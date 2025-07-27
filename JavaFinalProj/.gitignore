@@ -1,0 +1,13 @@
+# Ignore compiled files
+/bin/
+*.class
+
+# Ignore IDE files
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Ignore config files with secrets
+config.properties
+.env
